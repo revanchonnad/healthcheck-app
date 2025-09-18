@@ -25,7 +25,7 @@
 
 2. **Install dependencies**
    ```bash
-   npm install
+   node app.js
    ```
 
 3. **Set up MySQL database**
@@ -160,3 +160,4 @@ healthcheck-app/
 └── routes/
     └── health.js               # Health check route handlers
 ```
+

@@ -25,7 +25,7 @@
 
 2. **Install dependencies**
    ```bash
-   node app.js
+   npm install
    ```
 
 3. **Set up MySQL database**
@@ -54,12 +54,12 @@
 
 1. **Start the application**
    ```bash
-   npm start
+   node app.js
    ```
 
 2. **For development with auto-restart**
    ```bash
-   npm run dev
+-
    ```
 
 3. **Verify the application is running**
